@@ -3,3 +3,4 @@ Setting up git:
 git config --global user.name "xxx"
 git config --global user.email "xxx"
 git clone [Past the path of your repository]
+New staff added
